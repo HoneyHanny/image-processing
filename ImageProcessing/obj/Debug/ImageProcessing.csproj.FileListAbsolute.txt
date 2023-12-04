@@ -1,0 +1,22 @@
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.SuggestedBindingRedirects.cache
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+F:\SCHOOL\2023-2024\CS345-IS1\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.SuggestedBindingRedirects.cache
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+E:\School\Intelligent Systems 1\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
